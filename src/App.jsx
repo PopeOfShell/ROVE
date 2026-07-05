@@ -240,7 +240,7 @@ export default function App() {
             Skontaktuj się, aby umówić bezpłatną konsultację.
           </p>
           <div className="cta-links">
-            <a href="tel:+48 515 037 371" className="cta-link">+48 515 037 371</a>
+            <a href="tel:+48 515 037 370" className="cta-link">+48 515 037 370</a>
             <span className="cta-dot">·</span>
             <a href="mailto:studio@rove.pl" className="cta-link">studio@rove.pl</a>
           </div>
