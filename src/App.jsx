@@ -241,8 +241,6 @@ export default function App() {
           </p>
           <div className="cta-links">
             <a href="tel:+48 515 037 370" className="cta-link">+48 515 037 370</a>
-            <span className="cta-dot">·</span>
-            <a href="mailto:studio@rove.pl" className="cta-link">studio@rove.pl</a>
           </div>
           <div className="socials">
             <a href="https://www.instagram.com/rove.architektura/" className="soc" target="_blank" rel="noopener noreferrer">Instagram</a>
